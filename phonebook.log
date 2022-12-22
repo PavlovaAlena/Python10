@@ -1,0 +1,13 @@
+[22.12.2022 23:03:42 ] [INFO] [bot] [main: 44] => Выбран пункт №1
+[22.12.2022 23:03:47 ] [INFO] [bot] [main: 48] => Выбран пункт №2
+[22.12.2022 23:03:55 ] [INFO] [bot] [find_surname: 87] => User entered: {surname_it}
+[22.12.2022 23:04:12 ] [INFO] [bot] [main: 63] => Выбран пункт №5
+[22.12.2022 23:04:25 ] [INFO] [bot] [get_name: 108] => User entered: {name_it}
+[22.12.2022 23:04:29 ] [INFO] [bot] [get_surname: 116] => User entered: {surname_it}
+[22.12.2022 23:04:33 ] [INFO] [bot] [get_number: 124] => User entered: {number_it}
+[22.12.2022 23:04:45 ] [INFO] [bot] [get_email: 132] => User entered: {email_it}
+[22.12.2022 23:04:52 ] [INFO] [bot] [main: 74] => Выбран пункт №7
+[22.12.2022 23:04:56 ] [INFO] [bot] [delete_contact: 213] => Выбран пункт №7.2
+[22.12.2022 23:04:59 ] [INFO] [bot] [delete_name: 240] => User entered: {name_it}
+[22.12.2022 23:05:03 ] [INFO] [bot] [delete_number: 260] => User entered: {user_id_it}
+[22.12.2022 23:05:10 ] [INFO] [bot] [main: 44] => Выбран пункт №1
